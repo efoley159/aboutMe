@@ -33,7 +33,7 @@ struct ContentView: View {
                     ZStack {
                         Color("babygreen")
                         HStack {
-                            Text("I love cooking/baking during my freetime! In this photo,I made crepes!")
+                            Text("I love cooking/baking during my freetime! In this photo, I made crepes!")
                             Spacer()
                             Image("food")
                         }
